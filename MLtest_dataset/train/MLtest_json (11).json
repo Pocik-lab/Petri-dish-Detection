@@ -1,0 +1,2530 @@
+{
+  "чашка 2.jpg3235680": {
+    "filename": "чашка 2.jpg",
+    "size": 3235680,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "чашка 3.jpg3257306": {
+    "filename": "чашка 3.jpg",
+    "size": 3257306,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "чашка 4.jpg3972558": {
+    "filename": "чашка 4.jpg",
+    "size": 3972558,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "чашка 5.jpg3639277": {
+    "filename": "чашка 5.jpg",
+    "size": 3639277,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "чашка 6.jpg4815195": {
+    "filename": "чашка 6.jpg",
+    "size": 4815195,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "чашка 7.jpg20802614": {
+    "filename": "чашка 7.jpg",
+    "size": 20802614,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "чашка 8.1.jpg4834796": {
+    "filename": "чашка 8.1.jpg",
+    "size": 4834796,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "чашка 8.2.jpg5034561": {
+    "filename": "чашка 8.2.jpg",
+    "size": 5034561,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "чашка 9.jpg3934075": {
+    "filename": "чашка 9.jpg",
+    "size": 3934075,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "чашка 10.jpg4421118": {
+    "filename": "чашка 10.jpg",
+    "size": 4421118,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1074,
+          "y": 695,
+          "width": 189,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1634,
+          "y": 537,
+          "width": 284,
+          "height": 150
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2179,
+          "y": 229,
+          "width": 268,
+          "height": 213
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2779,
+          "y": 308,
+          "width": 174,
+          "height": 166
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3513,
+          "y": 876,
+          "width": 245,
+          "height": 332
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3387,
+          "y": 655,
+          "width": 253,
+          "height": 189
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 4058,
+          "y": 1713,
+          "width": 166,
+          "height": 268
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3837,
+          "y": 2432,
+          "width": 261,
+          "height": 205
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3711,
+          "y": 2155,
+          "width": 332,
+          "height": 276
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3363,
+          "y": 3308,
+          "width": 324,
+          "height": 339
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2771,
+          "y": 3853,
+          "width": 229,
+          "height": 253
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2487,
+          "y": 3758,
+          "width": 324,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 324,
+          "y": 2929,
+          "width": 245,
+          "height": 292
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 418,
+          "y": 1753,
+          "width": 261,
+          "height": 261
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 134,
+          "y": 1800,
+          "width": 213,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 189,
+          "y": 2155,
+          "width": 197,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3008,
+          "y": 2487,
+          "width": 308,
+          "height": 284
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1334,
+          "y": 3948,
+          "width": 150,
+          "height": 166
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1508,
+          "y": 3963,
+          "width": 158,
+          "height": 166
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1705,
+          "y": 3924,
+          "width": 87,
+          "height": 142
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1500,
+          "y": 3584,
+          "width": 237,
+          "height": 182
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1476,
+          "y": 3356,
+          "width": 189,
+          "height": 182
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1216,
+          "y": 2069,
+          "width": 197,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1500,
+          "y": 2155,
+          "width": 197,
+          "height": 300
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1879,
+          "y": 2211,
+          "width": 276,
+          "height": 268
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2005,
+          "y": 1871,
+          "width": 221,
+          "height": 308
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2376,
+          "y": 1547,
+          "width": 261,
+          "height": 339
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2226,
+          "y": 1421,
+          "width": 213,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2479,
+          "y": 1200,
+          "width": 253,
+          "height": 308
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2069,
+          "y": 1232,
+          "width": 142,
+          "height": 189
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2645,
+          "y": 758,
+          "width": 142,
+          "height": 158
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3292,
+          "y": 1382,
+          "width": 150,
+          "height": 150
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3071,
+          "y": 1626,
+          "width": 166,
+          "height": 197
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1713,
+          "y": 1153,
+          "width": 237,
+          "height": 300
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1295,
+          "y": 1121,
+          "width": 253,
+          "height": 221
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2542,
+          "y": 1950,
+          "width": 158,
+          "height": 197
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2740,
+          "y": 2211,
+          "width": 189,
+          "height": 229
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2527,
+          "y": 2511,
+          "width": 174,
+          "height": 174
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 663,
+          "y": 2179,
+          "width": 126,
+          "height": 166
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 695,
+          "y": 1082,
+          "width": 174,
+          "height": 166
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3427,
+          "y": 2961,
+          "width": 158,
+          "height": 197
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3166,
+          "y": 2882,
+          "width": 229,
+          "height": 158
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2661,
+          "y": 2937,
+          "width": 324,
+          "height": 300
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1942,
+          "y": 3450,
+          "width": 174,
+          "height": 261
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1784,
+          "y": 2905,
+          "width": 182,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1942,
+          "y": 2708,
+          "width": 268,
+          "height": 229
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2148,
+          "y": 3253,
+          "width": 213,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2211,
+          "y": 2984,
+          "width": 174,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 742,
+          "y": 2755,
+          "width": 268,
+          "height": 300
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1358,
+          "y": 2700,
+          "width": 158,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 868,
+          "y": 2432,
+          "width": 174,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 647,
+          "y": 1650,
+          "width": 205,
+          "height": 261
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 474,
+          "y": 2400,
+          "width": 134,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 632,
+          "y": 2463,
+          "width": 103,
+          "height": 205
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3300,
+          "y": 1792,
+          "width": 174,
+          "height": 276
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3521,
+          "y": 1524,
+          "width": 182,
+          "height": 253
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3474,
+          "y": 1776,
+          "width": 237,
+          "height": 158
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2140,
+          "y": 640,
+          "width": 174,
+          "height": 276
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2361,
+          "y": 995,
+          "width": 213,
+          "height": 229
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2195,
+          "y": 7122,
+          "width": 276,
+          "height": 261
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2250,
+          "y": 7414,
+          "width": 174,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2455,
+          "y": 7540,
+          "width": 261,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1484,
+          "y": 5203,
+          "width": 276,
+          "height": 316
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2921,
+          "y": 4603,
+          "width": 261,
+          "height": 261
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2771,
+          "y": 4516,
+          "width": 189,
+          "height": 166
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2076,
+          "y": 4390,
+          "width": 229,
+          "height": 158
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2313,
+          "y": 4374,
+          "width": 237,
+          "height": 182
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1840,
+          "y": 4958,
+          "width": 221,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1705,
+          "y": 4864,
+          "width": 142,
+          "height": 268
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 940,
+          "y": 5393,
+          "width": 221,
+          "height": 197
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1042,
+          "y": 5227,
+          "width": 197,
+          "height": 174
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 79,
+          "y": 5835,
+          "width": 197,
+          "height": 205
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 126,
+          "y": 6458,
+          "width": 268,
+          "height": 253
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 853,
+          "y": 6324,
+          "width": 308,
+          "height": 332
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 963,
+          "y": 7161,
+          "width": 182,
+          "height": 166
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2029,
+          "y": 6695,
+          "width": 261,
+          "height": 371
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3434,
+          "y": 6316,
+          "width": 189,
+          "height": 221
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3892,
+          "y": 5921,
+          "width": 276,
+          "height": 379
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3103,
+          "y": 5590,
+          "width": 300,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3379,
+          "y": 5306,
+          "width": 237,
+          "height": 387
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1776,
+          "y": 5558,
+          "width": 229,
+          "height": 284
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2353,
+          "y": 8211,
+          "width": 261,
+          "height": 182
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3024,
+          "y": 7990,
+          "width": 245,
+          "height": 174
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3687,
+          "y": 7406,
+          "width": 134,
+          "height": 150
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 466,
+          "y": 7027,
+          "width": 221,
+          "height": 213
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1934,
+          "y": 4674,
+          "width": 229,
+          "height": 221
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2724,
+          "y": 4856,
+          "width": 197,
+          "height": 268
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2834,
+          "y": 5116,
+          "width": 221,
+          "height": 229
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2005,
+          "y": 5661,
+          "width": 221,
+          "height": 221
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1563,
+          "y": 5574,
+          "width": 197,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2590,
+          "y": 6806,
+          "width": 174,
+          "height": 261
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2732,
+          "y": 6561,
+          "width": 221,
+          "height": 261
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1429,
+          "y": 4548,
+          "width": 205,
+          "height": 158
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 261,
+          "y": 6143,
+          "width": 174,
+          "height": 182
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 600,
+          "y": 7493,
+          "width": 150,
+          "height": 213
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 418,
+          "y": 7311,
+          "width": 229,
+          "height": 300
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 182,
+          "y": 6972,
+          "width": 150,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1066,
+          "y": 7627,
+          "width": 205,
+          "height": 174
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1974,
+          "y": 6316,
+          "width": 182,
+          "height": 276
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2140,
+          "y": 4942,
+          "width": 103,
+          "height": 245
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3000,
+          "y": 6569,
+          "width": 174,
+          "height": 205
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1579,
+          "y": 8030,
+          "width": 150,
+          "height": 253
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1240,
+          "y": 8030,
+          "width": 205,
+          "height": 213
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3513,
+          "y": 7145,
+          "width": 261,
+          "height": 261
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3024,
+          "y": 6869,
+          "width": 229,
+          "height": 261
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3292,
+          "y": 6743,
+          "width": 158,
+          "height": 189
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3584,
+          "y": 6174,
+          "width": 142,
+          "height": 174
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3695,
+          "y": 6869,
+          "width": 197,
+          "height": 229
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1982,
+          "y": 7564,
+          "width": 118,
+          "height": 182
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2045,
+          "y": 7737,
+          "width": 197,
+          "height": 142
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1334,
+          "y": 6829,
+          "width": 245,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1587,
+          "y": 6687,
+          "width": 237,
+          "height": 213
+        },
+        "region_attributes": { "Type":  "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1319,
+          "y": 6285,
+          "width": 308,
+          "height": 229
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2258,
+          "y": 5921,
+          "width": 189,
+          "height": 182
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2384,
+          "y": 4879,
+          "width": 174,
+          "height": 197
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 529,
+          "y": 4998,
+          "width": 229,
+          "height": 197
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 513,
+          "y": 5369,
+          "width": 166,
+          "height": 308
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 892,
+          "y": 5677,
+          "width": 292,
+          "height": 268
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 797,
+          "y": 5353,
+          "width": 126,
+          "height": 174
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1279,
+          "y": 4919,
+          "width": 197,
+          "height": 213
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1074,
+          "y": 4887,
+          "width": 197,
+          "height": 158
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1295,
+          "y": 5235,
+          "width": 158,
+          "height": 221
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1461,
+          "y": 4824,
+          "width": 126,
+          "height": 213
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1374,
+          "y": 5835,
+          "width": 158,
+          "height": 221
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1611,
+          "y": 5921,
+          "width": 142,
+          "height": 253
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 924,
+          "y": 6695,
+          "width": 276,
+          "height": 268
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 497,
+          "y": 6506,
+          "width": 213,
+          "height": 229
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1619,
+          "y": 8298,
+          "width": 261,
+          "height": 95
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3403,
+          "y": 4919,
+          "width": 189,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Mixed" }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "чашка 11.jpg4109514": {
+    "filename": "чашка 11.jpg",
+    "size": 4109514,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2007,
+          "y": 1525,
+          "width": 237,
+          "height": 182
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2568,
+          "y": 1169,
+          "width": 253,
+          "height": 205
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1446,
+          "y": 2165,
+          "width": 198,
+          "height": 277
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3808,
+          "y": 1043,
+          "width": 253,
+          "height": 277
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3200,
+          "y": 1082,
+          "width": 221,
+          "height": 261
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3365,
+          "y": 758,
+          "width": 198,
+          "height": 198
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3223,
+          "y": 569,
+          "width": 190,
+          "height": 182
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1934,
+          "y": 346,
+          "width": 180,
+          "height": 109
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1887,
+          "y": 574,
+          "width": 152,
+          "height": 109
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2090,
+          "y": 569,
+          "width": 152,
+          "height": 137
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2062,
+          "y": 972,
+          "width": 166,
+          "height": 137
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1360,
+          "y": 825,
+          "width": 161,
+          "height": 133
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1574,
+          "y": 749,
+          "width": 166,
+          "height": 171
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 953,
+          "y": 782,
+          "width": 137,
+          "height": 123
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 777,
+          "y": 1071,
+          "width": 256,
+          "height": 161
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1337,
+          "y": 1090,
+          "width": 199,
+          "height": 199
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 877,
+          "y": 2882,
+          "width": 228,
+          "height": 133
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1152,
+          "y": 2356,
+          "width": 180,
+          "height": 223
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1441,
+          "y": 3261,
+          "width": 161,
+          "height": 152
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2052,
+          "y": 4143,
+          "width": 175,
+          "height": 123
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2034,
+          "y": 3384,
+          "width": 270,
+          "height": 265
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1962,
+          "y": 3062,
+          "width": 123,
+          "height": 185
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1806,
+          "y": 2512,
+          "width": 256,
+          "height": 119
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3086,
+          "y": 1536,
+          "width": 137,
+          "height": 156
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1541,
+          "y": 1441,
+          "width": 137,
+          "height": 175
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3659,
+          "y": 2029,
+          "width": 161,
+          "height": 171
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3162,
+          "y": 1797,
+          "width": 166,
+          "height": 152
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2977,
+          "y": 2593,
+          "width": 166,
+          "height": 199
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3147,
+          "y": 2228,
+          "width": 209,
+          "height": 246
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 4043,
+          "y": 1621,
+          "width": 142,
+          "height": 194
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3934,
+          "y": 1863,
+          "width": 209,
+          "height": 199
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3854,
+          "y": 3152,
+          "width": 180,
+          "height": 152
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3451,
+          "y": 3697,
+          "width": 123,
+          "height": 156
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3095,
+          "y": 4015,
+          "width": 133,
+          "height": 81
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2318,
+          "y": 275,
+          "width": 152,
+          "height": 161
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2654,
+          "y": 521,
+          "width": 218,
+          "height": 204
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3005,
+          "y": 578,
+          "width": 156,
+          "height": 213
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2745,
+          "y": 1664,
+          "width": 109,
+          "height": 119
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2707,
+          "y": 2939,
+          "width": 204,
+          "height": 237
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2721,
+          "y": 3200,
+          "width": 218,
+          "height": 190
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2692,
+          "y": 3403,
+          "width": 218,
+          "height": 204
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2294,
+          "y": 2972,
+          "width": 199,
+          "height": 156
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1631,
+          "y": 3285,
+          "width": 204,
+          "height": 223
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1583,
+          "y": 3512,
+          "width": 246,
+          "height": 161
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1541,
+          "y": 3986,
+          "width": 218,
+          "height": 133
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1650,
+          "y": 3816,
+          "width": 171,
+          "height": 194
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3171,
+          "y": 3460,
+          "width": 123,
+          "height": 194
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3512,
+          "y": 2868,
+          "width": 180,
+          "height": 166
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3176,
+          "y": 2683,
+          "width": 76,
+          "height": 218
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3830,
+          "y": 2313,
+          "width": 223,
+          "height": 213
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 4119,
+          "y": 2920,
+          "width": 95,
+          "height": 128
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 4039,
+          "y": 2626,
+          "width": 156,
+          "height": 175
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 4138,
+          "y": 2323,
+          "width": 109,
+          "height": 156
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3650,
+          "y": 1095,
+          "width": 166,
+          "height": 246
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1939,
+          "y": 1370,
+          "width": 289,
+          "height": 166
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2417,
+          "y": 2351,
+          "width": 133,
+          "height": 171
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2451,
+          "y": 2545,
+          "width": 156,
+          "height": 137
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2621,
+          "y": 2294,
+          "width": 142,
+          "height": 185
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2801,
+          "y": 2190,
+          "width": 104,
+          "height": 180
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 280,
+          "y": 7166,
+          "width": 185,
+          "height": 191
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1233,
+          "y": 6088,
+          "width": 274,
+          "height": 256
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1656,
+          "y": 5945,
+          "width": 250,
+          "height": 238
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3342,
+          "y": 4807,
+          "width": 185,
+          "height": 262
+        },
+        "region_attributes": { "Type": "Dense" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2305,
+          "y": 7601,
+          "width": 208,
+          "height": 238
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1662,
+          "y": 6201,
+          "width": 155,
+          "height": 238
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 435,
+          "y": 6118,
+          "width": 226,
+          "height": 238
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 494,
+          "y": 6761,
+          "width": 185,
+          "height": 173
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 661,
+          "y": 6934,
+          "width": 238,
+          "height": 238
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 298,
+          "y": 6571,
+          "width": 173,
+          "height": 161
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 238,
+          "y": 6815,
+          "width": 214,
+          "height": 214
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 459,
+          "y": 7524,
+          "width": 137,
+          "height": 197
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1096,
+          "y": 7548,
+          "width": 167,
+          "height": 310
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 834,
+          "y": 7792,
+          "width": 161,
+          "height": 274
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1084,
+          "y": 7982,
+          "width": 143,
+          "height": 226
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1865,
+          "y": 8155,
+          "width": 232,
+          "height": 232
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1269,
+          "y": 8090,
+          "width": 167,
+          "height": 238
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1436,
+          "y": 8179,
+          "width": 119,
+          "height": 155
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1805,
+          "y": 6976,
+          "width": 214,
+          "height": 167
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1662,
+          "y": 7178,
+          "width": 214,
+          "height": 173
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1054,
+          "y": 6684,
+          "width": 203,
+          "height": 244
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 894,
+          "y": 6374,
+          "width": 226,
+          "height": 256
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2645,
+          "y": 6285,
+          "width": 119,
+          "height": 185
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2836,
+          "y": 6374,
+          "width": 280,
+          "height": 244
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2675,
+          "y": 6499,
+          "width": 143,
+          "height": 149
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2347,
+          "y": 7333,
+          "width": 334,
+          "height": 143
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2121,
+          "y": 7440,
+          "width": 179,
+          "height": 161
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2573,
+          "y": 7470,
+          "width": 185,
+          "height": 220
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3092,
+          "y": 7035,
+          "width": 185,
+          "height": 286
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2836,
+          "y": 5391,
+          "width": 179,
+          "height": 214
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3747,
+          "y": 5451,
+          "width": 179,
+          "height": 232
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3622,
+          "y": 6273,
+          "width": 244,
+          "height": 214
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3866,
+          "y": 5814,
+          "width": 179,
+          "height": 250
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3747,
+          "y": 6988,
+          "width": 131,
+          "height": 203
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3449,
+          "y": 7029,
+          "width": 77,
+          "height": 119
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2591,
+          "y": 5570,
+          "width": 155,
+          "height": 220
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3074,
+          "y": 5421,
+          "width": 214,
+          "height": 256
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3348,
+          "y": 5296,
+          "width": 161,
+          "height": 298
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2353,
+          "y": 5647,
+          "width": 185,
+          "height": 179
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2162,
+          "y": 5850,
+          "width": 143,
+          "height": 220
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1269,
+          "y": 5111,
+          "width": 435,
+          "height": 346
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 804,
+          "y": 5516,
+          "width": 161,
+          "height": 143
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 745,
+          "y": 4807,
+          "width": 197,
+          "height": 107
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1626,
+          "y": 4646,
+          "width": 405,
+          "height": 226
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2633,
+          "y": 5826,
+          "width": 185,
+          "height": 197
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1948,
+          "y": 6308,
+          "width": 161,
+          "height": 226
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1650,
+          "y": 6612,
+          "width": 203,
+          "height": 316
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1174,
+          "y": 5659,
+          "width": 250,
+          "height": 214
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 673,
+          "y": 5999,
+          "width": 113,
+          "height": 161
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1900,
+          "y": 5951,
+          "width": 143,
+          "height": 191
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2836,
+          "y": 4986,
+          "width": 208,
+          "height": 262
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2704,
+          "y": 4468,
+          "width": 203,
+          "height": 161
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2794,
+          "y": 4605,
+          "width": 280,
+          "height": 167
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3538,
+          "y": 7452,
+          "width": 197,
+          "height": 149
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2395,
+          "y": 6934,
+          "width": 173,
+          "height": 185
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 751,
+          "y": 5111,
+          "width": 107,
+          "height": 226
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 101,
+          "y": 6302,
+          "width": 131,
+          "height": 137
+        },
+        "region_attributes": { "Type": "Mixed" }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2442,
+          "y": 8149,
+          "width": 208,
+          "height": 155
+        },
+        "region_attributes": { "Type": "Diffuse" }
+      }
+    ],
+    "file_attributes": {}
+  }
+}

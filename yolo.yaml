@@ -1,0 +1,10 @@
+path: ../yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+names:
+  0: Dense
+  1: Diffuse
+  2: Mixed
